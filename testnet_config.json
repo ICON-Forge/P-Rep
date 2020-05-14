@@ -1,0 +1,28 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "https://icon-forge.github.io/P-Rep/icon-forge-testnet-256.png",
+      "logo_1024": "https://icon-forge.github.io/P-Rep/icon-forge-testnet-1024.png",
+      "logo_svg": "https://icon-forge.github.io/P-Rep/icon-forge-testnet.svg"
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "https://twitter.com/ICONForge",
+      "youtube": "",
+      "facebook": "",
+      "github": "https://github.com/ICON-Forge",
+      "reddit": "http://reddit.com/u/iconforge",
+      "keybase": "",
+      "telegram": "https://t.me/iconforge",
+      "wechat": ""
+    }
+  },
+  "server": {
+    "location": {
+      "country": "Ireland",
+      "city": "Dublin"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "54.171.204.222:7100:9000"
+  }
+}
