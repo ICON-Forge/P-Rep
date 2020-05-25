@@ -1,0 +1,28 @@
+{
+  "representative": {
+    "logo": {
+      "logo_256": "https://icon-forge.github.io/P-Rep/icon-forge-256.png",
+      "logo_1024": "https://icon-forge.github.io/P-Rep/icon-forge-1024.png",
+      "logo_svg": "https://icon-forge.github.io/P-Rep/icon-forge.svg"
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "https://twitter.com/ICONForge",
+      "youtube": "",
+      "facebook": "",
+      "github": "https://github.com/ICON-Forge",
+      "reddit": "http://reddit.com/u/iconforge",
+      "keybase": "",
+      "telegram": "https://t.me/icon_forge",
+      "wechat": ""
+    }
+  },
+  "server": {
+    "location": {
+      "country": "Sweden",
+      "city": "Stockholm"
+    },
+    "server_type": "cloud",
+    "api_endpoint": "http://13.49.93.73:9000"
+  }
+}
